@@ -47,12 +47,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zanjay7&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanjay7&layout=compact&theme=github_dark&hide_border=true&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zanjay7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanjay7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zanjay7&theme=github-dark&hide_border=true&border_radius=10" width="96%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zanjay7&theme=tokyonight&hide_border=true&border_radius=10" width="96%" />
 
 </div>
 
@@ -68,4 +68,3 @@
 ---
 
 > 🔥 *"Consistency beats intensity — keep building, brick by brick."*
-
