@@ -52,7 +52,7 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zanjay7&theme=tokyonight&hide_border=true&border_radius=10" width="96%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zanjay7&theme=radical" alt="GitHub Streak" width="96%" />
 
 </div>
 
