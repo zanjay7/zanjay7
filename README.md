@@ -18,19 +18,20 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/zanjay" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/z.a.n.j.a.y" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discord.gg/sanjay000450" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
 ---
+
 
 ### 💻 Tech Stack
 
