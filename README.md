@@ -1,57 +1,71 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=650&lines=Hi+%F0%9F%91%8B%EF%B8%8F%2C+I'm+SANJAY+KRISHNAN+M+M!;Electronics+%26+Communication+Engineer;Python+Django+Full+Stack+Developer;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&width=700&lines=Hello+World+%F0%9F%8C%90;I'm+SANJAY+KRISHNAN+M+M;Electronics+%26+Communication+Engineer;Full+Stack+Django+Developer;Tech+Enthusiast+%7C+Code+%7C+Create+%7C+Connect" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zanjay7&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zanjay7&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 👨‍💻 Blending **electronics** with **software** to create real-world solutions  
-- 🚀 Currently mastering **Python Django Full Stack Development**  
-- 🧠 Proficient in **C, Embedded Systems, IoT Projects, and Web Development**  
-- 💬 Let's talk about tech, startups, and smart systems  
-- 📫 Ping me on [**Instagram**](https://www.instagram.com/z.a.n.j.a.y) — always open to collabs!
+💡 Tech-driven problem solver with a passion for fusing hardware & software  
+💻 Building full-stack web apps using **Python, Django, and JavaScript**  
+🔌 Exploring Embedded Systems & IoT to build smart solutions  
+🚀 Constantly learning, building, and experimenting  
+🎯 Focused on making ideas real through code  
+📬 DM me on [**Instagram**](https://www.instagram.com/z.a.n.j.a.y) or connect via [**LinkedIn**](https://linkedin.com/in/zanjay)
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/zanjay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/z.a.n.j.a.y" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.gg/sanjay000450" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,javascript,mysql,c" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,javascript,mysql,c,git,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zanjay7&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanjay7&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zanjay7&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanjay7&layout=compact&theme=github_dark&hide_border=true&border_radius=10" width="48%" />
+
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zanjay7&theme=tokyonight&border_radius=10" width="96%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zanjay7&theme=github-dark&hide_border=true&border_radius=10" width="96%" />
 
 </div>
 
 ---
+
+## ⚡ Fun Facts
+
+- 🎬 Big fan of anime & tech documentaries  
+- ✨ Love designing interfaces with **Canva**  
+- 🧩 Always up for solving logic puzzles or debugging challenges  
+- 🛠 Building my portfolio step by step — stay tuned!  
+
+---
+
+> 🔥 *"Consistency beats intensity — keep building, brick by brick."*
 
